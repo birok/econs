@@ -1281,7 +1281,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #999;
+  color: #00116b;
 }
 
 #contact .contact-info a {
@@ -1510,7 +1510,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 30px;
 }
 
-
 #footer .credits {
   text-align: center;
   font-size: 13px;
@@ -1528,10 +1527,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 20px 0;
   }
 
-  #contact .contact-phone {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-  }
 }
 
 @media (min-width: 992px) {
